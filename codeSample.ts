@@ -60,7 +60,7 @@ function getData(): Promise<string> {
                 resolve(data);
             });
         }).on("error", (error) => {
-            console.error("Error fetching data:", error.message);
+            console.error("Error fetching dataaaaaaa:", error.message);
             reject(error);
         });
     });
