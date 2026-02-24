@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class VulnerableApp {
 
     private static final String DB_URL = "jdbc:mysql://mydatabase.com/mydb";
-    private static final String DB_USER = "admin";
+    private static final String DB_USER = "adminnnnnnn";
     private static final String DB_PASSWORD = "secret123";
 
     public static String getUserInput() {
